@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lvxwnfvSMqB1egCaUxurEp9/5gDz7+TM1SkKz8oPM9c3ei8vLDLH+rzv8ZfmWSEeLI9VCVjarEegYkKNqJtB8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Learn\\ffendpoints\\MyWebApp\\MyWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dan\\.nuget\\packages\\fastendpoints\\5.25.0\\fastendpoints.5.25.0.nupkg.sha512",
+    "C:\\Users\\Dan\\.nuget\\packages\\fastendpoints.attributes\\5.25.0\\fastendpoints.attributes.5.25.0.nupkg.sha512",
+    "C:\\Users\\Dan\\.nuget\\packages\\fastendpoints.messaging.core\\5.25.0\\fastendpoints.messaging.core.5.25.0.nupkg.sha512",
+    "C:\\Users\\Dan\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
